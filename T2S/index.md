@@ -42,7 +42,7 @@
          <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
           Lyrics</th></tr>
           <tr><td><audio controls="" preload="none" style="height:30px">
-          <source src="https://resna-2007.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>
+          <source src="https://ismir21.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>
           </td>
            <td>"Edelweiss, Edelweiss 
           Every morning you greet me
@@ -63,7 +63,7 @@
                  Synthesized Song with Model 1</th></tr>
               <tr>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://resna-2007.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>
                 </td></tr>
               </tbody></table>
               <label for="sim_mel">How well does synthesized song adapts to target melody</label>
@@ -108,7 +108,7 @@
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://resna-2007.github.io/T2S/Singer_1/Song2.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Singer_1/Song2.wav" type="audio/mpeg">audio not supported</audio>
                   </td></tr>
               </tbody>
             </table>
@@ -158,7 +158,7 @@
                  Synthesized Song with Model 1</th></tr>
               <tr>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://resna-2007.github.io/T2S/Singer_2/Song1.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_2/Song1.wav" type="audio/mpeg">audio not supported</audio>
                 </td></tr>
               </tbody></table>
               <label for="sim_mel">How well does synthesized song adapts to target melody</label>
@@ -203,7 +203,7 @@
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://resna-2007.github.io/T2S/Singer_2/Song2.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Singer_2/Song2.wav" type="audio/mpeg">audio not supported</audio>
                   </td></tr>
               </tbody>
             </table>
@@ -253,7 +253,7 @@
                  Synthesized Song with Model 1</th></tr>
               <tr>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://resna-2007.github.io/T2S/Singer_4/Song1.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_4/Song1.wav" type="audio/mpeg">audio not supported</audio>
                 </td></tr>
               </tbody></table>
               <label for="sim_mel">How well does synthesized song adapts to target melody</label>
@@ -298,7 +298,7 @@
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://resna-2007.github.io/T2S/Singer_4/Song2.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Singer_4/Song2.wav" type="audio/mpeg">audio not supported</audio>
                   </td></tr>
               </tbody>
             </table>
@@ -348,7 +348,7 @@
                  Synthesized Song with Model 1</th></tr>
               <tr>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://resna-2007.github.io/T2S/Singer_5/Song1.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_5/Song1.wav" type="audio/mpeg">audio not supported</audio>
                 </td></tr>
               </tbody></table>
               <label for="sim_mel">How well does synthesized song adapts to target melody</label>
@@ -393,7 +393,7 @@
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://resna-2007.github.io/T2S/Singer_5/Song2.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Singer_5/Song2.wav" type="audio/mpeg">audio not supported</audio>
                   </td></tr>
               </tbody>
             </table>
@@ -443,7 +443,7 @@
                  Synthesized Song with Model 1</th></tr>
               <tr>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://resna-2007.github.io/T2S/Singer_6/Song1.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_6/Song1.wav" type="audio/mpeg">audio not supported</audio>
                 </td></tr>
               </tbody></table>
               <label for="sim_mel">How well does synthesized song adapts to target melody</label>
@@ -488,7 +488,7 @@
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://resna-2007.github.io/T2S/Singer_6/Song2.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Singer_6/Song2.wav" type="audio/mpeg">audio not supported</audio>
                   </td></tr>
               </tbody>
             </table>
@@ -538,7 +538,7 @@
                  Synthesized Song with Model 1</th></tr>
               <tr>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://resna-2007.github.io/T2S/Singer_7/Song1.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_7/Song1.wav" type="audio/mpeg">audio not supported</audio>
                 </td></tr>
               </tbody></table>
               <label for="sim_mel">How well does synthesized song adapts to target melody</label>
@@ -583,7 +583,7 @@
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://resna-2007.github.io/T2S/Singer_7/Song2.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Singer_7/Song2.wav" type="audio/mpeg">audio not supported</audio>
                   </td></tr>
               </tbody>
             </table>
