@@ -71,11 +71,7 @@
                 </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>
-                </td>
-                 <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Singer_1/Song2.wav" type="audio/mpeg">audio not supported</audio>
-                  </td></tr>
-              </tbody></table>
+              <div>
               <label for="sim_mel">How well does synthesized song adapts to target melody</label>
               <select name="sim_mel" id="sim_mel" required="">
                 <option value="" selected disabled>Choose</option>
@@ -111,7 +107,13 @@
                 <option value="3">Good</option>
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
-              </select><br>              
+              </select><br> 
+              </div>
+                </td>
+                 <td><audio controls="" preload="none" style="height:30px">
+                  <source src="https://ismir21.github.io/T2S/Singer_1/Song2.wav" type="audio/mpeg">audio not supported</audio>
+                  </td></tr>
+              </tbody></table>                           
     <table border="0" width="20%" style="font-size:16px">
             <tbody>
               <tr>
