@@ -59,14 +59,16 @@
           <table border="0" style="font-size:16px">
               <tbody>
                 <tr>                
-                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
-                 Target Melody</th>               
-                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
+                <th bgcolor="lightblue" style="white-space:nowrap;height:30px;min-width: 240px">
+                 </th>               
+                <th bgcolor="lightblue" style="white-space:nowrap;height:30px;min-width: 240px">
                  Synthesized Song with Model 1</th>                
-                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
+                <th bgcolor="lightblue" style="white-space:nowrap;height:30px;min-width: 240px">
                  Synthesized Song with Model 2</th></tr>
               <tr>
               <td>
+                    <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
+                 Target Melody</div>  
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
