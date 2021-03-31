@@ -56,7 +56,7 @@
       </div>
   <div class='grrp'>  
     <h3>Singer1</h3>
-          <table border="0" width="40%" style="font-size:16px">
+          <table border="0" width="50%" style="font-size:16px">
               <tbody>
                 <tr>                
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
@@ -73,7 +73,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:10px;text-align: left;">
               <label for="sim_mel">How well does synthesized song adapts to target melody</label>
-              <select style="font-size:12px;" name="sim_mel" id="sim_mel" required="">
+              <select name="sim_mel" id="sim_mel" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
                 <option value="4">Very Good</option>
