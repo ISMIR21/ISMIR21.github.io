@@ -71,8 +71,8 @@
                 </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>
-              <div>
-              <label style="font-size:12px;" for="sim_mel">How well does synthesized song adapts to target melody</label>
+              <div style="font-size:10px;text-align: left;">
+              <label for="sim_mel">How well does synthesized song adapts to target melody</label>
               <select style="font-size:12px;" name="sim_mel" id="sim_mel" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
