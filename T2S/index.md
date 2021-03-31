@@ -37,13 +37,10 @@
       <p>Listen to the original audio files of 5 different singers and provide feedback on the synthesized waveforms produced using two systems</p>
       <div class='grrp'>
        <table border="0" width="20%" style="font-size:16px">
-          <tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
-          Target Melody</th>
-         <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
+          <tbody><tr>
+         <th bgcolor="lightblue" style="white-space:nowrap;height:30px;min-width: 240px">
           Lyrics</th></tr>
-          <tr><td><audio controls="" preload="none" style="height:30px">
-          <source src="https://ismir21.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>
-          </td>
+          <tr>
            <td>"Edelweiss, Edelweiss 
           Every morning you greet me
           Small and white clean and bright
