@@ -56,7 +56,7 @@
       </div>
   <div class='grrp'>  
     <h3>Singer1</h3>
-          <table border="0" width="50%" style="font-size:16px">
+          <table border="0" style="font-size:16px">
               <tbody>
                 <tr>                
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
