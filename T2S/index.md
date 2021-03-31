@@ -69,11 +69,13 @@
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>
               <table>
-               <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
+              <tbody>
+              <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</th>   
                  <tr>
                  <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>              
                  </tr>
+                 </tbody>
                  </table>
                 </td>
               <td>
