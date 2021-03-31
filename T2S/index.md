@@ -71,8 +71,12 @@
                 </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>
-              <div style="font-size:10px;text-align: left;">
-              <label for="sim_mel">How well does synthesized song adapts to target melody</label>
+              <div style="font-size:14px;text-align: left;">
+              <table>
+              <tr>
+              <td>
+              <label for="sim_mel">How well does synthesized song adapts to target melody</label></td>
+              <td>
               <select name="sim_mel" id="sim_mel" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -81,7 +85,13 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-      <label for="sim_qlty">How would you rate the singing Quality (clarity)</label>
+              </td>
+              </tr>
+              <tr>
+              <td>
+             <label for="sim_qlty">How would you rate the singing Quality (clarity)</label>
+             </td>
+             <td>
               <select name="sim_qlty" id="sim_qlty" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -90,7 +100,13 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme">How would you rate the phoneme quality of synthesized audio<br></label>
+              </td>
+              </tr>
+              <tr>
+              <td>
+     <label for="synth_phoneme">How would you rate the phoneme quality of synthesized audio<br>
+     </label></td>
+     <td>
               <select name="synth_phoneme" id="synth_phoneme" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -99,7 +115,13 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
+              </td>
+              </tr>
+              <tr>
+              <td>
                <label for="synth_speaker">How well does synthesized song adapts to reference speaker voice<br></label>
+               </td>
+               <td>
               <select name="synth_speaker" id="synth_speaker" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -108,6 +130,9 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br> 
+              </td>
+              </tr>
+              </table>
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
