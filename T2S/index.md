@@ -31,7 +31,7 @@
   color: black;
   border: 2px solid #008CBA; /* Blue */
 }
-.button:hover {
+.button1:hover {
   background-color: #008CBA; /* Blue */
   color: white;
 }
