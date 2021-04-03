@@ -960,7 +960,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_2/Target_Melody.wav" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
-                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_5/samuel_speech_inp" type="audio/mpeg">audio not supported</audio> 
+                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_5/samuel_speech_inp.wav" type="audio/mpeg">audio not supported</audio> 
                 </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_5/Song1.wav" type="audio/mpeg">audio not supported</audio>
