@@ -26,6 +26,15 @@
   padding: 10px;
   margin: 10px;
     }
+  .button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA; /* Blue */
+}
+.button:hover {
+  background-color: #008CBA; /* Blue */
+  color: white;
+}
     </style>
 </head>
 <body>
@@ -1228,5 +1237,5 @@
               </tbody></table>  
               </div> 
     <br><br>
-     <button type="submit">Send Responses</button>
+     <button class="button1" type="submit">Send Responses</button>
      
