@@ -1393,7 +1393,7 @@
               <td>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/humming 64.wav" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_2/humming 64.wav" type="audio/mpeg">audio not supported</audio>            
              </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_4/pred_humming_barak.wav" type="audio/mpeg">audio not supported</audio>
@@ -1462,7 +1462,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Singer_4/nus_BARA_sing_Pair_4.output.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Singer_4/nus_BARA_sing_Pair_4.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
