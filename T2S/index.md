@@ -43,7 +43,7 @@
     <fieldset id="fs-frm-inputs" style="border:0px solid black;">
       <label for="email-address">Email Address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""><br><br>
-      <p>Listen to the original audio files of 5 different singers and provide feedback on the synthesized waveforms produced using two systems</p>
+      <p>Listen to the target melody and target speaker's voice first. Then analyze synthesized song with two models - How well the synthesized song matches to target speaker's voice and how well it matches to the melody/tune of the target melody. Kindly listen to the Audio files of 5 different singers  and provide feedback on the synthesized waveforms produced using two systems.</p>
       <div class='grrp'>
        <table border="0" width="20%" style="font-size:16px">
           <tbody><tr>
