@@ -208,7 +208,7 @@
               <td>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Edelwise_hum.wav.wav" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Edelwise_hum.wav" type="audio/mpeg">audio not supported</audio>            
              </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/pred_humming_adiz.wav" type="audio/mpeg">audio not supported</audio>
