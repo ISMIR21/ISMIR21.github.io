@@ -354,7 +354,11 @@
               </select><br> 
               </td>
               </tr>
-              <tr>
+              </table>
+              </div>
+              </td>
+              </tr>
+                            <tr>
               <td>
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Lyrics</div> 
@@ -490,10 +494,6 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br> 
-              </td>
-              </tr>
-              </table>
-              </div>
               </td>
               </tr>
               </tbody></table>  
