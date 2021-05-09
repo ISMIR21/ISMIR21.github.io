@@ -73,15 +73,18 @@
                  Synthesized Song with Model 2</th></tr>
               <tr>
               <td>
+              <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
+                 Lyrics</div> 
+                 <div> Edelweiss, Edelweiss Every morning you greet me</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_singing.mp3" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
                  <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Singer1_Voice.wav" type="audio/mpeg">audio not supported</audio> 
                 </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_1_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -147,7 +150,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Singer_1/Song2.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_1_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
