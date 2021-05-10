@@ -5594,7 +5594,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMU/samu_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMU/samu_5_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
