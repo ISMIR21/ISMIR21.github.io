@@ -43,8 +43,8 @@
     <fieldset id="fs-frm-inputs" style="border:0px solid black;">
       <label for="email-address">Email Address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""><br><br>
-      <p style="text-align:justify;background-color: lightblue; color: darkblue; "> <i> Listen to the target melody and target speaker's voice first. Then analyze synthesized song with two models - How well the synthesized song matches to target speaker's voice and how well it matches to the melody/tune of the target melody. Kindly listen to the Audio files of 5 different singers  and provide feedback on the synthesized waveforms produced using two systems.</i></p>
-      <div class='grrp'>
+      <p style="text-align:justify;background-color: lightblue; color: darkblue; "> <i> Listen to the target melody and target speaker's voice first. Then analyze synthesized song with two models - How well the synthesized song matches to target speaker's voice and how well it matches to the melody/tune of the target melody. Kindly listen to the Audio files of 4 different singers  and provide feedback on the synthesized waveforms produced using two systems.</i></p>
+      <!-- <div class='grrp'>
        <table border="0" width="20%" style="font-size:16px">
           <tbody><tr>
          <th bgcolor="lightblue" style="white-space:nowrap;height:30px;min-width: 240px">
@@ -59,7 +59,7 @@
           Edelweiss, Edelweiss"</td>
           </tr></tbody>
           </table>
-      </div>
+      </div> -->
   <div class='grrp'>  
     <h3>Singer1</h3>
           <table border="0" style="font-size:16px">
@@ -1514,13 +1514,13 @@
                  <div> Edelweiss, Edelweiss Every morning you greet me</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_singing.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
-                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Singer1_Voice.wav" type="audio/mpeg">audio not supported</audio> 
+                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Singer2_Voice.wav" type="audio/mpeg">audio not supported</audio> 
                 </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_1_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_1_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -1586,7 +1586,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_1_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_1_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -1659,10 +1659,10 @@
                  <div> Edelweiss, Edelweiss Every morning you greet me</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_humming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
              </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_1_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_1_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -1728,7 +1728,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_1_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_1_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -1801,10 +1801,10 @@
                  <div> Love in your eyes Sitting silent by my side</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_singing.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_2_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_2_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -1870,7 +1870,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_2_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_2_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -1943,10 +1943,10 @@
                  <div> Love in your eyes Sitting silent by my side</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_humming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_2_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_2_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2012,7 +2012,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_2_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_2_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2085,10 +2085,10 @@
                  <div> I'm just a little bit caught in the middle Life is a maze, and love is a riddle</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_singing.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_3_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_3_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2154,7 +2154,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_3_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_3_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2227,10 +2227,10 @@
                  <div> I'm just a little bit caught in the middle Life is a maze, and love is a riddle</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_humming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_3_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_3_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2296,7 +2296,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_3_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_3_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2369,10 +2369,10 @@
                  <div> Slow it down, make it stop Or else my heart is going to pop</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_singing.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_4_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_4_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2438,7 +2438,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_4_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_4_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2511,10 +2511,10 @@
                  <div> Slow it down, make it stop Or else my heart is going to pop</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_humming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_4_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_4_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2580,7 +2580,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_4_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_4_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2653,10 +2653,10 @@
                  <div> Love me tender,Love me sweet,Never let me go</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_singing.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_5_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_5_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2722,7 +2722,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_5_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_5_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2795,10 +2795,10 @@
                  <div> Love me tender,Love me sweet,Never let me go</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_humming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_5_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_5_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2864,7 +2864,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_5_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/SAMF/samf_5_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -2953,10 +2953,10 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_singing.mp3" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
-                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Singer1_Voice.wav" type="audio/mpeg">audio not supported</audio> 
+                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Singer3_Voice.wav" type="audio/mpeg">audio not supported</audio> 
                 </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_1_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_1_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3022,7 +3022,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_1_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_1_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3098,7 +3098,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_humming.mp3" type="audio/mpeg">audio not supported</audio>            
              </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_1_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_1_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3164,7 +3164,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_1_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_1_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3240,7 +3240,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_singing.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_2_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_2_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3306,7 +3306,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_2_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_2_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3382,7 +3382,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_humming.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_2_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_2_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3448,7 +3448,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_2_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_2_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3524,7 +3524,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_singing.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_3_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_3_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3590,7 +3590,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_3_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_3_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3666,7 +3666,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_humming.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_3_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_3_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3732,7 +3732,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_3_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_3_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3808,7 +3808,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_singing.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_4_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_4_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3874,7 +3874,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_4_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_4_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -3950,7 +3950,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_humming.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_4_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_4_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -4016,7 +4016,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_4_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_4_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -4092,7 +4092,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_singing.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_5_sing.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_5_sing.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -4158,7 +4158,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_5_sing.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_5_sing.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -4234,7 +4234,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_humming.mp3" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/ADIZ/adiz_5_hum.wav" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_5_hum.wav" type="audio/mpeg">audio not supported</audio>
               <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
@@ -4300,7 +4300,7 @@
               </div>
                 </td>
                  <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/ADIZ/adiz_5_hum.wav" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://ismir21.github.io/T2S/Samples/WithGAN/RESNA/resna_5_hum.wav" type="audio/mpeg">audio not supported</audio>
                     <div style="font-size:14px;text-align: left;">
               <table>
               <tr>
