@@ -1517,7 +1517,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
-                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Singer2_Voice.wav" type="audio/mpeg">audio not supported</audio> 
+                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Speech/Singer2_Voice.wav" type="audio/mpeg">audio not supported</audio> 
                 </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_1_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -2953,7 +2953,7 @@
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_singing.mp3" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
-                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Singer3_Voice.wav" type="audio/mpeg">audio not supported</audio> 
+                 <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Speech/Singer3_Voice.mp3" type="audio/mpeg">audio not supported</audio> 
                 </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/RESNA/resna_1_sing.wav" type="audio/mpeg">audio not supported</audio>
