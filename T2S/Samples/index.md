@@ -1514,7 +1514,7 @@
                  <div> Edelweiss, Edelweiss Every morning you greet me</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
                  <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Singer_1/Singer2_Voice.wav" type="audio/mpeg">audio not supported</audio> 
@@ -1659,7 +1659,7 @@
                  <div> Edelweiss, Edelweiss Every morning you greet me</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
              </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_1_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -1801,7 +1801,7 @@
                  <div> Love in your eyes Sitting silent by my side</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_2_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -1943,7 +1943,7 @@
                  <div> Love in your eyes Sitting silent by my side</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_2_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -2085,7 +2085,7 @@
                  <div> I'm just a little bit caught in the middle Life is a maze, and love is a riddle</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_3_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -2227,7 +2227,7 @@
                  <div> I'm just a little bit caught in the middle Life is a maze, and love is a riddle</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_3_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -2369,7 +2369,7 @@
                  <div> Slow it down, make it stop Or else my heart is going to pop</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_4_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -2511,7 +2511,7 @@
                  <div> Slow it down, make it stop Or else my heart is going to pop</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_4_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -2653,7 +2653,7 @@
                  <div> Love me tender,Love me sweet,Never let me go</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_5_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -2795,7 +2795,7 @@
                  <div> Love me tender,Love me sweet,Never let me go</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMF/samf_5_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -4386,7 +4386,7 @@
                  <div> Edelweiss, Edelweiss Every morning you greet me</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
                  <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Speech/Singer4_Voice.wav" type="audio/mpeg">audio not supported</audio> 
@@ -4531,7 +4531,7 @@
                  <div> Edelweiss, Edelweiss Every morning you greet me</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
              </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_1_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -4673,7 +4673,7 @@
                  <div> Love in your eyes Sitting silent by my side</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_2_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -4815,7 +4815,7 @@
                  <div> Love in your eyes Sitting silent by my side</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/2_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_2_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -4957,7 +4957,7 @@
                  <div> I'm just a little bit caught in the middle Life is a maze, and love is a riddle</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_3_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -5099,7 +5099,7 @@
                  <div> I'm just a little bit caught in the middle Life is a maze, and love is a riddle</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/3_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_3_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -5241,7 +5241,7 @@
                  <div> Slow it down, make it stop Or else my heart is going to pop</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_4_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -5383,7 +5383,7 @@
                  <div> Slow it down, make it stop Or else my heart is going to pop</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/4_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_4_hum.wav" type="audio/mpeg">audio not supported</audio>
@@ -5525,7 +5525,7 @@
                  <div> Love me tender,Love me sweet,Never let me go</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_msinging.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_5_sing.wav" type="audio/mpeg">audio not supported</audio>
@@ -5667,7 +5667,7 @@
                  <div> Love me tender,Love me sweet,Never let me go</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_mhumming.mp3" type="audio/mpeg">audio not supported</audio>            
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/5_mhumming.wav" type="audio/mpeg">audio not supported</audio>            
               </td>
               <td>
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/WithoutGAN/SAMU/samu_5_hum.wav" type="audio/mpeg">audio not supported</audio>
