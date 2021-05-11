@@ -44,22 +44,22 @@
       <label for="email-address">Email Address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""><br><br>
       <p style="text-align:justify;background-color: lightblue; color: darkblue; "> <i> Listen to the target melody and target speaker's voice first. Then analyze synthesized song with two models - How well the synthesized song matches to target speaker's voice and how well it matches to the melody/tune of the target melody. Kindly listen to the Audio files of 4 different singers  and provide feedback on the synthesized waveforms produced using two systems.</i></p>
-      <!-- <div class='grrp'>
-       <table border="0" width="20%" style="font-size:16px">
-          <tbody><tr>
-         <th bgcolor="lightblue" style="white-space:nowrap;height:30px;min-width: 240px">
-          Lyrics</th></tr>
-          <tr>
-           <td>"Edelweiss, Edelweiss 
-          Every morning you greet me
-          Small and white clean and bright
-          You look happy to meet me
-          Blossom of snow, may you bloom and grow
-          Bloom and grow forever
-          Edelweiss, Edelweiss"</td>
-          </tr></tbody>
-          </table>
-      </div> -->
+      <br>
+      <table>
+      <tr>
+      <td>
+       <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
+                 Problem Statement in Malayalam</div>  
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Speech/Malayalam.ogg" type="audio/mpeg">audio not supported</audio>  
+              </td>
+              <td>
+              <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
+                 Problem Statement in English</div>  
+              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/SpeechEnglish.ogg" type="audio/mpeg">audio not supported</audio> 
+              </td>
+              </tr>
+        </table>         
+ 
   <div class='grrp'>  
     <h3>Singer1</h3>
           <table border="0" style="font-size:16px">
