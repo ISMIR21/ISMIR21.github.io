@@ -77,7 +77,7 @@
                  <div> Edelweiss, Edelweiss Every morning you greet me Small and white clean and bright You look happy to meet me Blossom of snow, may you bloom and grow Bloom and grow forever Edelweiss, Edelweiss Bless my homeland forever</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
-              <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.wav" type="audio/mpeg">audio not supported</audio>            
+              <audio controls controlsList="nodownload" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.wav" type="audio/mpeg">audio not supported</audio>            
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Singer Voice</div>                  
                  <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Speech/Singer2_Voice.wav" type="audio/mpeg">audio not supported</audio> 
