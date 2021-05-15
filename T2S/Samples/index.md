@@ -47,16 +47,16 @@
       <br>
       <table>
       <tr>
-      <td>
+      <!-- <td>
        <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Problem Statement in Malayalam</div>  
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Speech/Malayalam.ogg" type="audio/mpeg">audio not supported</audio>  
               </td>
-              <td>
+              <td> -->
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Problem Statement in English</div>  
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Speech/English.ogg" type="audio/mpeg">audio not supported</audio> 
-              </td>
+              <!-- </td> -->
               </tr>
         </table>         
  
