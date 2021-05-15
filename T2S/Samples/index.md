@@ -74,7 +74,7 @@
               <td>
               <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Lyrics</div> 
-                 <div> Edelweiss, Edelweiss Every morning you greet me</div>
+                 <div> Edelweiss, Edelweiss Every morning you greet me Small and white clean and bright You look happy to meet me Blossom of snow, may you bloom and grow Bloom and grow forever Edelweiss, Edelweiss Bless my homeland forever</div>
                     <div  style="background-color: lightblue;white-space:nowrap;height:30px;min-width: 240px">
                  Target Melody</div>  
               <audio controls="" preload="none" style="height:30px"><source src="https://ismir21.github.io/T2S/Samples/Recordings/1_msinging.wav" type="audio/mpeg">audio not supported</audio>            
